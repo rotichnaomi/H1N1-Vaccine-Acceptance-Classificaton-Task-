@@ -1,13 +1,13 @@
-# Phase-3-project
+# H1N1 Vaccine Acceptance
 This repository contains my phase 3 project
 ## Project Title
-A Classification Algorithms for Predicting H1N1 Vaccine Acceptance based on Behavioral Factors.
+A Classification Algorithms for Predicting H1N1 Vaccine Acceptance Based on Behavioral Factors.
 ## Background
 The H1N1 and seasonal flu dataset contains information about individuals who participated in the 2009-2010 National Health and Nutrition Examination Survey (NHANES) conducted by the Centers for Disease Control and Prevention (CDC). The dataset was collected to study the prevalence and determinants of the H1N1 and seasonal flu vaccinations among the US population.
-## Project overview
+## Project Overview
 For this project, we will use classification algorithms to predict H1N1 vaccine acceptance.
 ## Business problem
-Businesses in the healthcare industry can gain insights into the demographic, socioeconomic, and health-related factors that are associated with H1N1 vaccine uptake. This information can be used to develop targeted marketing campaigns and vaccination programs that are more effective in reaching and persuading specific groups of people to get vaccinated.
+Businesses in the healthcare industry can gain insights into the demographic, socioeconomic, and health-related factors associated with H1N1 vaccine uptake. This information can be used to develop targeted marketing campaigns and vaccination programs that are more effective in reaching and persuading specific groups of people to get vaccinated.
 # Main objective
 * To build a classification model to predict whether an individual will presumably get H1N1 vaccine or not.
 # Specific objectives
